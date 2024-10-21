@@ -14,12 +14,12 @@ class ProductSeeder extends Seeder
     public function run(): void
     {
         Product::create([
-            'title' => 'Elit reprehenderit eu nostrud et.',
-            'price' => 19.03,
+            'title' => 'Dell Inspiron Laptop',
+            'price' => 19000.03, // You may want to update the price as well
             'quantity' => 3,
             'category_id'=> 1,
             'brand_id'=>1,
-            'description'=>'Occaecat cupidatat consequat eu eiusmod sint commodo aute. Fugiat commodo amet do dolore. Ullamco ullamco nisi laboris cillum ea. Excepteur exercitation laborum culpa ex do ipsum id laboris ut ad est commodo. Commodo occaecat commodo ex laborum ea esse consequat pariatur tempor qui reprehenderit. Irure ullamco esse cupidatat voluptate in sunt do officia ullamco fugiat deserunt.'
+            'description'=>'The Dell Inspiron laptop offers an excellent combination of performance and portability. Ideal for both work and entertainment, it features a sleek design, long battery life, and powerful hardware. Experience smooth multitasking and stunning visuals with its high-definition display and the latest technology.'
         ]);
     }
 }
