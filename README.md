@@ -28,3 +28,4 @@ Requirements: MySQL, PHP 8.1, Node.js and composer.
    Run `npm install`
 9. Run `npm run dev` to start vite server for Laravel frontend
 10. For Stripe Api key, please go to .env file and replace with your api key
+11. Then go to http://127.0.0.1:8000 or http://127.0.0.1:8000/admin/login 
