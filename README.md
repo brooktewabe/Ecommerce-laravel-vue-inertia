@@ -8,8 +8,8 @@
 
 ### Demo Screenshot (Admin)
 <div style="display: flex; gap: 10px;">
-    <img src="public/Screenshot%20(58).png" alt="Admin Screenshot 2"  height=45% width=45%/>
-    <img src="public/Screenshot%20(57).png" alt="Admin Screenshot 1" height=45% width=45%/>
+    <img src="public/Screenshot%20(58).png" alt="Admin Screenshot 2"  height="450" width="700"/>
+    <img src="public/Screenshot%20(57).png" alt="Admin Screenshot 1" height="450" width="700"/>
 </div>
 
 
