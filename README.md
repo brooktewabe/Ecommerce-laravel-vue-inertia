@@ -1,6 +1,6 @@
 ## E-commerce app - Laravel, Vue.js, Tailwind.css and Inertia.js with Stripe Payment
 
-### Demo Screenshot (User)
+### Demo Screensho(User)
 <div style="display: flex; gap: 10px;">
     <img src="public/Screenshot%20(59).png" alt="User Screenshot 1"  height="450" width="700"/>
     <img src="public/Screenshot%20(60).png" alt="User Screenshot 2" height="450" width="700" />
